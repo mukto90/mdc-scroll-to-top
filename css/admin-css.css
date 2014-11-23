@@ -1,0 +1,38 @@
+.select-an-image {
+	overflow: hidden;
+}
+.each-scroll-icon-div {
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	cursor: pointer;
+	float: left;
+	height: 64px;
+	margin: 5px;
+	width: 64px;
+}
+.each-scroll-icon-div img {
+	max-height: 56px;
+	max-width: 56px;
+	padding: 4px;
+}
+.scroll-icon-img {
+	height: 64px;
+	text-align: center;
+}
+.scroll-icon-inpt{
+	display: none
+}
+.checked {
+	border-color: #f00;
+	border-width: 6px;
+	margin: 0px;
+}
+#topcontrol{
+	display: none
+}
+.select-method {
+	height: 30px;
+}
+.upload-an-image{
+	display: none
+}
