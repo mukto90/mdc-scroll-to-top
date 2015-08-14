@@ -5,7 +5,7 @@ Author: Nazmul Ahsan
 Description: MDC Scroll To Top adds a 'Scroll To Top' button to your WordPress site. It includes around a hundred built-in icons. You can select any of them or add your own icon also.
 Author URI: http://mukto.medhabi.com
 Plugin URI: https://wordpress.org/plugins/mdc-scroll-to-top/
-Version: 1.0.0
+Version: 1.1
 */
 function mdc_scroll_to_top(){
 $method = get_option('mdc_select_method');
@@ -95,7 +95,7 @@ function mdc_admin_scripts() {
 add_action( 'admin_enqueue_scripts', 'mdc_admin_scripts' );
 
 function mdc_scroll_to_top_option_page(){
-	add_menu_page( 'MDC Scroll To Top', 'Scroll To Top', 'administrator', 'scroll-to-top', 'mdc_scroll_to_top_option_page_content', plugin_dir_url(__FILE__).'images/menu-icon.png', 61 );
+	add_menu_page( 'MDC Scroll To Top', 'Scroll To Top', 'administrator', 'scroll-to-top', 'mdc_scroll_to_top_option_page_content', plugin_dir_url(__FILE__).'images/menu-icon.png', 61.56 );
 }
 add_action('admin_menu', 'mdc_scroll_to_top_option_page');
 
