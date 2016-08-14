@@ -1,0 +1,15 @@
+#mdc_scroll_to_top_icon table tr:last-child td fieldset br,
+#mdc_scroll_to_top_icon table tr:last-child td fieldset label input {
+  display: none;
+}
+#mdc_scroll_to_top_icon table tr:last-child td fieldset label img {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  height: 48px;
+  margin-right: 2px;
+  padding: 2px;
+  width: 48px;
+}
+#mdc_scroll_to_top_icon table tr:last-child td fieldset label.icon-choosen img{
+	border-color: #f00;
+}

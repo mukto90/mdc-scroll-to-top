@@ -1,0 +1,7 @@
+.scroll-to-top {
+	display: none;
+	position: fixed;
+	text-indent: -9999px;
+	outline: medium none !important;
+	cursor: pointer;
+}
