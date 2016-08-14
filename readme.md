@@ -1,12 +1,10 @@
-=== Scroll to Top ===
+# Scroll to Top #
 
 Scroll to Top button for your WordPress site.
 
-== Description ==
+## Description ##
 
 Scroll to Top button for your WordPress site. You have freedom to choose from 80 built-in icons or even upload your own custom icon.
-
-![Preset icons](https://ps.w.org/mdc-scroll-to-top/assets/screenshot-1.png?rev=1474069)
 
 With this plugin, you can:
 
@@ -18,7 +16,7 @@ With this plugin, you can:
 -   Set Time to scroll to top
 -   Define scroll amount the icon should be shown after.
 
-== Installation ==
+## Installation ##
 
 1.  Upload \`mdc-scroll-to-top\` to the \`/wp-content/plugins/\`
     directory
@@ -28,7 +26,7 @@ With this plugin, you can:
     scrolling time etc.
 5.  You are done.
 
-== Screenshots ==
+## Screenshots ##
 
 1.  80 Available built-in icons!
 2.  You can upload your own icon as well.
@@ -36,11 +34,17 @@ With this plugin, you can:
     padding etc.
 4.  'Scroll to Top' icon in frontend.
 
-== Changelog ==
+## Changelog ##
 
-= 2.0 = \* Code improvement \* Performance improvement \* New icons
-added \* Appearance customization
+### 2.0 ###
 
-= 1.1 = \* Small fixing
+* Code improvement 
+* Performance improvement
+* New icons added
+* Appearance customization
 
-= 1.0 = \* Initial relese
+### 1.1 ###
+* Small fixing
+
+### 1.0 ###
+* Initial relese
